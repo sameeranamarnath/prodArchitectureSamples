@@ -1,2 +1,2 @@
 # prodArchitectureSamples
-References of architectures typically used in production 
+References of prod architectures i used for real world assignments 
